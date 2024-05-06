@@ -1,8 +1,14 @@
-### Hi there 👋
+<h2 align="center">Hi there, I'm Salvador Rodó Coll👋 </h2>
+
+- 🎓 I'm currently studying Telecommunications Engineering at [UPC](https://upc.edu)
+- 🔭 I’m currently learning **Python**
+- 💬 Ask me about **Java, C and Git**
+- ⚡ Fun fact: I translate Wikipedia articles in my free time
+
+This GitHub page is mostly a collection of projects from other people that I translated to my native language, but there are also some small personal projects of mine scattered in there.
 
 <!--
 **Seifer23/Seifer23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
