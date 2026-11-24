@@ -1,6 +1,9 @@
 <h2 align="center">Hi there, I'm Salvador Rodó Coll👋 </h2>
 
-- 🎓 I'm currently studying Telecommunications Engineering at [UPC](https://upc.edu)
+<p align="center">
+  🎓 BSc Telecom Eng. (GRETST) + MSc Advanced Telecommunication Technologies (MATT) @ <a href="https://etsetb.upc.edu">UPC ETSETB</a><br>
+  📍 Granollers, Catalonia
+</p>
 
 
 This GitHub page is mostly a collection of projects from other people that I translated to my native language, but there are also some small personal projects of mine scattered in there.
