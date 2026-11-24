@@ -6,8 +6,6 @@
 </p>
 
 
-This GitHub page is mostly a collection of projects from other people that I translated to my native language, but there are also some small personal projects of mine scattered in there.
-
 <!--
 **Seifer23/Seifer23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
